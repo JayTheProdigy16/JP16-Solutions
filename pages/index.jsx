@@ -49,7 +49,7 @@ export default function Home() {
       <Layout>
       {/* Start Hero Section */}
       <Hero
-        title="We Help Establish<br/>Digital Dominance"
+        title="We Help Establish <br/>Digital Dominance"
         subtitle="Your Web Design, SEO, and Marketing Needs Met By a Team of Skilled Prodigies"
         btnText="Let's Innovate Together"
         btnLink="/contact"
