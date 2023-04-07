@@ -30,7 +30,7 @@ export default function Header({ variant }) {
             <Div className="cs-main_header_in">
               <Div className="cs-main_header_left">
               <Link className="cs-site_branding" href="/">
-                <Image src="/images/logo.png" alt="Logo" width={125} height={50} />
+                <Image src="/images/logo.png" alt="Logo" width={120} height={60} />
               </Link>
 
               </Div>
